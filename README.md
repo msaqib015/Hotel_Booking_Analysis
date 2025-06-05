@@ -1,4 +1,4 @@
-# EDA_on_Hotel_Bookings
+# Hotel_Booking_Analysis
 
 # 🏨 Hotel Bookings EDA
 
