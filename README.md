@@ -1,4 +1,4 @@
-### EDA_on_Hotel_Bookings
+# EDA_on_Hotel_Bookings
 
 # 🏨 Hotel Bookings EDA
 
